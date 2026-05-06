@@ -20,11 +20,11 @@ Este proyecto implementa:
 - Interacción con el usuario mediante IO.gets
 
 ## Estructura del Proyecto
-
+```
 FUTBOL-GOLES-ELIXIR/
 ├── README.md
 ├── Fase3.ex
-
+```
 ## Requisitos
 
 - Elixir 1.12 o superior
